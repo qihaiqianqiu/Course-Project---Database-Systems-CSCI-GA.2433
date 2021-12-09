@@ -1,7 +1,5 @@
 # Database Systems, CSCI-GA.2433-011 Course Project Assignment
 
-## Name: Han Hao      NetID: hh2540
-
 ### How the program should be run
 
 The program has a main interface **Main.py**. Run the Python script will call the command line prompet to receiving your commands until an *EXIT* command is received. All possible commands are as follows:
