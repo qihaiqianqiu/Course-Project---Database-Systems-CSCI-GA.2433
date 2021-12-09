@@ -1,0 +1,9 @@
+ID|Name|Salary|Manager|Department
+138|name70648|65|5380|department34
+139|name70649|65|5380|department34
+140|name70650|65|5380|department34
+141|name70651|65|5380|department34
+142|name70652|65|5380|department34
+14|name701|65|5380|department34
+69|name71|65|5380|department34
+70|name700|65|5380|department34
